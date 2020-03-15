@@ -70,8 +70,7 @@ def apply_coupons(cart, coupons)
     
     i += 1
   end
-  
-  
+  cart
 end
 
 
