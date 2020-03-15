@@ -50,6 +50,15 @@ def apply_coupons(cart, coupons)
   
 end
 
+
+
+
+
+
+
+
+
+
 def apply_clearance(cart)
   # Consult README for inputs and outputs
   #
